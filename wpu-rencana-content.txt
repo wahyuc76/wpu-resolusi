@@ -5,5 +5,7 @@ RENCANA KONTENT WPU
   * Framework Javascript
 - Struktural Data Dasar
 - PHP Frameworks
+  ^ Laravel
 - Inteview
 - Vlogs
+- Python
